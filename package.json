@@ -1,0 +1,27 @@
+{
+  "name": "gulp-markup-transformer",
+  "version": "0.0.1",
+  "description": "Transform source with markup-transformer.",
+  "main": "index.js",
+  "dependencies": {
+    "event-stream": "~3.1.7",
+    "markup-transformer": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manse/gulp-markup-transformer.git"
+  },
+  "keywords": [
+    "ascii",
+    "art",
+    "html",
+    "stylesheet",
+    "javascript"
+  ],
+  "author": {
+    "name": "Ryota Mannari",
+    "email": "info@manse.jp"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/manse/gulp-markup-transformer"
+}

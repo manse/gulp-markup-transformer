@@ -2,8 +2,6 @@
 
 Transform source with markup-transformer.
 
-https://www.npmjs.org/package/gulp-markup-transformer
-
 ## Installation
 
 ```
